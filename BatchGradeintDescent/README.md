@@ -1,2 +1,2 @@
 # BatchGradeintDescent
-This repo contained Batch Gradient Descent Scratch implimented using python 
+Repository contained Batch Gradient Descent Scratch implimentation using python 
