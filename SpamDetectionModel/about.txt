@@ -1,0 +1,9 @@
+This reg contained login interface and mail interface
+and able to classify on the basis of content of mail you sent either it is spam or ham(not spam)..
+Note: 1)it my predict some time inaccurate result because of few training set if you want to inhance
+its accuracy rate trained it with some more examples how much you can...
+2) i know there are multiple inbuilt techique provided by python to
+make data set from raw data and even its performance can be increased (for instance if
+ i used 'yield') insted of 'return' and many more .. but here my intension was to made
+  the concept clear how to things work internlly ..
+3)
